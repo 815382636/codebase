@@ -8,3 +8,4 @@
 
 # [(xx, yy) for xx in x for yy in y if xx != yy]
 
+l = [1,2]
