@@ -8,4 +8,7 @@
 
 # [(xx, yy) for xx in x for yy in y if xx != yy]
 
-l = [1,2]
+
+s = '1231'
+s1 = s + '2'
+print(set(s))
