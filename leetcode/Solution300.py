@@ -26,18 +26,16 @@ class Solution:
                     l[r] = nums[i]
         return len(l)
 
-        # if length == 1:
-        #     return 1
-        # result = 1
-        # result_list = [1]
-        # for i in range(1,length):
-        #     lar = 0
-        #     for j in range(i):
-        #         if nums[i] >nums[j]:
-        #             lar = lar if lar >=result_list[j] else result_list[j]
-        #     result_list.append(1+lar)
-        #     result = result if result >= (1+lar) else (1+lar)
-        # return result
+    # 动态规划
+    # def lengthOfLIS(self, nums: List[int]) -> int:
+    #     if not nums:
+    #         return 0
+    #     l = [1] * len(nums)
+    #     result = 1
+    #     for i in range(1, len(nums)):
+    #         l[i] = max([l[j] for j in range(i) if nums[i] > nums[j]] + [0]) + 1
+    #         result = result if result >= l[i] else l[i]
+    #     return result
 
 
 if __name__ == '__main__':
