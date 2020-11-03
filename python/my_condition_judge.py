@@ -9,6 +9,6 @@
 # [(xx, yy) for xx in x for yy in y if xx != yy]
 
 
-s = '1231'
-s1 = s + '2'
-print(set(s))
+a = 12
+b = 10
+print(-(-a // b))
