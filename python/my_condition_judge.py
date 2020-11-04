@@ -12,3 +12,7 @@
 a = 12
 b = 10
 print(-(-a // b))
+a = {1, 2, 3}
+for i in a:
+    print(i)
+
