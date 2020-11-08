@@ -22,3 +22,11 @@ c = 0x3f3f3f3f
 d = -0x3f3f3f3f
 print(a, b, c, d)
 
+"""
+    bisect 库
+    https://www.cnblogs.com/skydesign/archive/2011/09/02/2163592.html
+"""
+import bisect
+
+s = [1, 2, 4]
+print(bisect.bisect_left(s, 1), bisect.bisect_right(s, 1))
