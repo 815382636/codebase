@@ -9,4 +9,3 @@
 # [(xx, yy) for xx in x for yy in y if xx != yy]
 
 
-s1 = (1, 2, 3)

@@ -9,14 +9,13 @@ class Solution:
             return 0
         result = 0
         level = prices[0]
-        for i in range(1,len(prices)):
+        for i in range(1, len(prices)):
             if prices[i] < level:
                 level = prices[i]
             elif level + fee < prices[i]:
                 result += prices[i] - fee - level
                 level = prices[i] - fee
         return result
-
 
         # 动态规划
         # result = 0
