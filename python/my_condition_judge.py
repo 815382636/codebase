@@ -8,4 +8,6 @@
 
 # [(xx, yy) for xx in x for yy in y if xx != yy]
 
+a = float('inf')
+print(a > 10000)
 
