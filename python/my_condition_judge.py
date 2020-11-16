@@ -8,6 +8,5 @@
 
 # [(xx, yy) for xx in x for yy in y if xx != yy]
 
-a = [1, 2, 4, 5, 3, 6]
-print(sorted(a, reverse=True))
-print(a == sorted(a))
+a = -3
+print(abs(a))
