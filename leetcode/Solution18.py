@@ -6,13 +6,17 @@ class Solution:
         nums = sorted(nums)
         result = []
         for i in range(len(nums) - 3):
-            if i > 0 and nums[i] > target // 4:
+            if nums[i] + nums[i + 1] + nums[i + 2] + nums[i + 3] > target:
                 break
+            if nums[i] + nums[len(nums) - 1] + nums[len(nums) - 2] + nums[len(nums) - 3] < target:
+                continue
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
             for j in range(i + 1, len(nums) - 2):
-                if nums[j] > (target - nums[i]) // 3:
+                if nums[j] + nums[i] + nums[j + 1] + nums[j + 2] > target:
                     break
+                if nums[j] + nums[i] + nums[len(nums) - 1] + nums[len(nums) - 2] < target:
+                    continue
                 if j > i + 1 and nums[j] == nums[j - 1]:
                     continue
                 l, r = j + 1, len(nums) - 1
@@ -30,7 +34,6 @@ class Solution:
                         l += 1
                     else:
                         r -= 1
-
         return result
 
 

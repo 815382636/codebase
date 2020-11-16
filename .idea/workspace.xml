@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3007319-5d29-4300-889d-22728ecac987" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/JDSolution1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/JDSolution2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/JDSolution3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/JDSolution4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/Solution18.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/Solution16.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Solution16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/my_condition_judge.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/my_condition_judge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/Solution18.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Solution18.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +199,7 @@
       <workItem from="1604887872181" duration="6459000" />
       <workItem from="1604986813182" duration="5099000" />
       <workItem from="1605350317702" duration="3774000" />
-      <workItem from="1605357904934" duration="7791000" />
+      <workItem from="1605357904934" duration="8682000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode 1,11,15,31____16remained">
       <created>1605357762844</created>
@@ -229,26 +223,26 @@
       <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state x="352" y="23" key="CommitChangelistDialog2/0.23.1680.958@0.23.1680.958" timestamp="1605357762718" />
-    <state width="1630" height="173" key="GridCell.Tab.0.bottom" timestamp="1605495337887">
+    <state width="1630" height="173" key="GridCell.Tab.0.bottom" timestamp="1605495645281">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
-    <state width="1630" height="173" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1605495337887" />
-    <state width="1630" height="173" key="GridCell.Tab.0.center" timestamp="1605495337886">
+    <state width="1630" height="173" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1605495645281" />
+    <state width="1630" height="173" key="GridCell.Tab.0.center" timestamp="1605495645280">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
-    <state width="1630" height="173" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1605495337886" />
-    <state width="1630" height="173" key="GridCell.Tab.0.left" timestamp="1605495337886">
+    <state width="1630" height="173" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1605495645280" />
+    <state width="1630" height="173" key="GridCell.Tab.0.left" timestamp="1605495645280">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
-    <state width="1630" height="173" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1605495337886" />
-    <state width="1630" height="173" key="GridCell.Tab.0.right" timestamp="1605495337887">
+    <state width="1630" height="173" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1605495645280" />
+    <state width="1630" height="173" key="GridCell.Tab.0.right" timestamp="1605495645280">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
-    <state width="1630" height="173" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1605495337887" />
+    <state width="1630" height="173" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1605495645280" />
     <state width="1630" height="284" key="GridCell.Tab.1.bottom" timestamp="1604656834801">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
@@ -341,7 +335,7 @@
     <SUITE FILE_PATH="coverage/codebase$Solution15.coverage" NAME="Solution15 Coverage Results" MODIFIED="1605357644502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$Solution56.coverage" NAME="Solution56 Coverage Results" MODIFIED="1604451358033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$Solution329.coverage" NAME="Solution329 Coverage Results" MODIFIED="1604903417107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/codebase$Solution18.coverage" NAME="Solution18 Coverage Results" MODIFIED="1605495337880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/codebase$Solution18.coverage" NAME="Solution18 Coverage Results" MODIFIED="1605495556210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$Solution410.coverage" NAME="Solution410 Coverage Results" MODIFIED="1604322374840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$homework2.coverage" NAME="homework2 Coverage Results" MODIFIED="1603932809154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codebase$JDSolution1.coverage" NAME="JDSolution1 Coverage Results" MODIFIED="1605409026466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
