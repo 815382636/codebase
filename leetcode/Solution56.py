@@ -3,19 +3,13 @@ from typing import List
 
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
-        intervals = sorted(intervals)
-
-        def deal_with(index):
-            if index + 1 < len(intervals) and intervals[index + 1][0] <= intervals[index][1]:
-                intervals[index][1] = max(intervals[index][1], intervals[index + 1][1])
-                intervals.pop(index + 1)
-                return index
-            return index + 1
-
-        i = 0
-        while i < len(intervals):
-            i = deal_with(i)
-
+        intervals, index = sorted(intervals), 1
+        while index < len(intervals):
+            if intervals[index - 1][1] >= intervals[index][0]:
+                intervals[index - 1][1] = max(intervals[index - 1][1], intervals[index][1])
+                intervals.pop(index)
+            else:
+                index += 1
         return intervals
 
 

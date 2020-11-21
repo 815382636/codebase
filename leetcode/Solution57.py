@@ -2,22 +2,17 @@ from typing import List
 
 
 class Solution:
+
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
         intervals.append(newInterval)
-        new_list = sorted(intervals)
-
-        def deal_with(index):
-            if index + 1 < len(new_list) and new_list[index + 1][0] <= new_list[index][1]:
-                new_list[index][1] = max(new_list[index][1], new_list[index + 1][1])
-                new_list.pop(index + 1)
-                return index
-            return index + 1
-
-        i = 0
-        while i < len(new_list):
-            i = deal_with(i)
-
-        return new_list
+        intervals, index = sorted(intervals), 1
+        while index < len(intervals):
+            if intervals[index - 1][1] >= intervals[index][0]:
+                intervals[index - 1][1] = max(intervals[index - 1][1], intervals[index][1])
+                intervals.pop(index)
+            else:
+                index += 1
+        return intervals
 
 
 if __name__ == "__main__":
