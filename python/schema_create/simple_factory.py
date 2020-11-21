@@ -1,51 +1,37 @@
 from abc import ABCMeta, abstractmethod
+"""
+    简单工厂模式
+    CSDN:https://blog.csdn.net/qq_33511971/article/details/109888948
+"""
 
-
-class Payment(metaclass=ABCMeta):  # ABC是Abstract Base Class的缩写。
-
-    @abstractmethod  # 抽象方法
-    def pay(self, money):
+class Animal(metaclass=ABCMeta):
+    @abstractmethod
+    def say(self):
         pass
 
 
-class AliPay(Payment):
+class Cat(Animal):
 
-    def __init__(self, yu_e_bao=False):
-        self.yu_e_bao = yu_e_bao
-
-    def pay(self, money):
-
-        if self.yu_e_bao:
-            print(f'use yu_e_bao pay {money}')
-
-        else:
-            print(f'use zhifubao pay {money}')
+    def say(self):
+        print("MMMMMMMMM")
 
 
-class WeChat(Payment):
+class Dog(Animal):
+    def say(self):
+        print("HHHHHHHH")
 
-    def pay(self, money):
-        print(f'use Wechat pay {money}')
 
-
-class Paymethod():
-
+class AnimalFactory:
     @staticmethod
-    def create_payment(method):
-
-        if method == 'yu_e_bao':
-            return AliPay(True)
-
-        elif method == 'zhifubao':
-            return AliPay(False)
-
-        elif method == 'Wechat':
-            return WeChat()
-        else:
-            print('method error')
+    def create_animal(type):
+        if type == 'cat':
+            return Cat()
+        elif type == 'dog':
+            return Dog()
 
 
-f = Paymethod.create_payment('zhifubao')
-f.pay(30)  # use zhifubao pay 30
-f = Paymethod.create_payment('Wechat')
-f.pay(300)
+if __name__ == '__main__':
+    cat = AnimalFactory.create_animal('cat')
+    cat.say()
+    dog = AnimalFactory.create_animal('dog')
+    dog.say()
