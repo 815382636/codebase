@@ -30,3 +30,13 @@ import bisect
 
 s = [1, 2, 4]
 print(bisect.bisect_left(s, 1), bisect.bisect_right(s, 1))
+
+"""
+    ASCII码 与字符的相互转换
+
+"""
+b = 97
+print(chr(b))
+print(ord('a'))
+print(ord('A'))
+print(ord('1'))
