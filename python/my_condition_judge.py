@@ -8,5 +8,8 @@
 
 # [(xx, yy) for xx in x for yy in y if xx != yy]
 
-a = -3
-print(abs(a))
+s = {1, 2, 3}
+s1 = s.copy()
+s1.remove(1)
+print(s1)
+print(s)
