@@ -1,6 +1,8 @@
 """
     除法向上取整
 """
+import itertools
+
 a = 12
 b = 5
 print(-(-a // b))
@@ -40,3 +42,8 @@ print(chr(b))
 print(ord('a'))
 print(ord('A'))
 print(ord('1'))
+
+"""
+    python itertools 高效combinations
+"""
+print(list(itertools.combinations(range(1, 5), 2)))
