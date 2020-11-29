@@ -47,3 +47,11 @@ print(ord('1'))
     python itertools 高效combinations
 """
 print(list(itertools.combinations(range(1, 5), 2)))
+
+"""
+    random
+"""
+import random
+
+for i in range(10):
+    print(random.randint(0, 2), end="\t")
