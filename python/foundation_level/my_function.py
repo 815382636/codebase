@@ -18,6 +18,18 @@ print(my_sum(1, 2))
 print(help(my_sum))  # 返回""""""中的内容
 
 """
+    dir()函数的作用
+    Dir()函数也是Python内置函数，dir() 函数不带参数时，返回当前范围内的变量、方法和定义的类型列表；
+    带参数时，返回参数的属性、方法列表。
+"""
+print(dir(
+    str.join))  # ['__call__', '__class__', '__delattr__', '__dir__', '__doc__', '__eq__',
+# '__format__', '__ge__', '__get__', '__getattribute__', '__gt__', '__hash__',
+# '__init__', '__init_subclass__', '__le__', '__lt__', '__name__', '__ne__',
+# '__new__', '__objclass__', '__qualname__', '__reduce__', '__reduce_ex__', '_
+# _repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__text_signature__']
+
+"""
     函数修改全局变量    先 global 一下
     内函数修改外函数的值  先 nonlocal 一下
 """

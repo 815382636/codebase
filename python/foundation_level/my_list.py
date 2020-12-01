@@ -51,3 +51,11 @@ print(namelist)
 """
     .copy()  复制
 """
+
+"""
+    如何以就地操作方式打乱一个列表的元素？
+"""
+import  random
+l = [1, 2, 4, 5]
+random.shuffle(l)
+print(l)

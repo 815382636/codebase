@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3007319-5d29-4300-889d-22728ecac987" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/muke_advance/my_iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/muke_advance/my_string.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/foundation_level/my_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/foundation_level/my_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/foundation_level/my_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/foundation_level/my_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +65,7 @@
       <recent name="$PROJECT_DIR$/python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.my_iterator">
+  <component name="RunManager" selected="Python.my_list">
     <configuration name="caculate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codebase" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="my_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="my_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codebase" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,29 +101,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/foundation_level/my_file.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="my_high_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codebase" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/foundation_level" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/foundation_level/my_high_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/foundation_level/my_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +132,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="my_screen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="my_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codebase" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/foundation_level" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/foundation_level/my_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codebase" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,7 +167,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/muke_advance/my_screen.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/muke_advance/my_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.my_list" />
+        <item itemvalue="Python.my_function" />
+        <item itemvalue="Python.my_string" />
         <item itemvalue="Python.my_iterator" />
         <item itemvalue="Python.caculate" />
-        <item itemvalue="Python.my_screen" />
-        <item itemvalue="Python.my_file" />
-        <item itemvalue="Python.my_high_function" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +217,7 @@
       <workItem from="1606183342034" duration="7747000" />
       <workItem from="1606292492283" duration="7033000" />
       <workItem from="1606467218537" duration="20918000" />
-      <workItem from="1606615887566" duration="27216000" />
+      <workItem from="1606615887566" duration="34284000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode 1,11,15,31____16remained">
       <created>1605357762844</created>
@@ -244,41 +246,45 @@
       <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state x="352" y="23" key="CommitChangelistDialog2/0.23.1680.958@0.23.1680.958" timestamp="1605357762718" />
-    <state width="1630" height="218" key="GridCell.Tab.0.bottom" timestamp="1606717707084">
-      <screen x="0" y="25" width="1680" height="1025" />
+    <state width="1630" height="218" key="GridCell.Tab.0.bottom" timestamp="1606811205083">
+      <screen x="0" y="25" width="1680" height="949" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
     <state width="1630" height="222" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1606441058637" />
     <state width="1630" height="219" key="GridCell.Tab.0.bottom/0.25.1680.951@0.25.1680.951" timestamp="1606531835536" />
     <state width="1630" height="222" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1606364864320" />
-    <state width="1630" height="218" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1606705393679" />
+    <state width="1630" height="218" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1606811205083" />
+    <state width="1630" height="218" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1606805979491" />
     <state width="1630" height="218" key="GridCell.Tab.0.bottom/1680.25.1920.973/0.25.1680.1025@0.25.1680.1025" timestamp="1606717707084" />
-    <state width="1630" height="218" key="GridCell.Tab.0.center" timestamp="1606717707083">
-      <screen x="0" y="25" width="1680" height="1025" />
+    <state width="1630" height="218" key="GridCell.Tab.0.center" timestamp="1606811205082">
+      <screen x="0" y="25" width="1680" height="949" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
     <state width="1630" height="222" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1606441058636" />
     <state width="1630" height="219" key="GridCell.Tab.0.center/0.25.1680.951@0.25.1680.951" timestamp="1606531835536" />
     <state width="1630" height="222" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1606364864319" />
-    <state width="1630" height="218" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1606705393678" />
+    <state width="1630" height="218" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1606811205082" />
+    <state width="1630" height="218" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1606805979490" />
     <state width="1630" height="218" key="GridCell.Tab.0.center/1680.25.1920.973/0.25.1680.1025@0.25.1680.1025" timestamp="1606717707083" />
-    <state width="1630" height="218" key="GridCell.Tab.0.left" timestamp="1606717707082">
-      <screen x="0" y="25" width="1680" height="1025" />
+    <state width="1630" height="218" key="GridCell.Tab.0.left" timestamp="1606811205082">
+      <screen x="0" y="25" width="1680" height="949" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
     <state width="1630" height="222" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1606441058636" />
     <state width="1630" height="219" key="GridCell.Tab.0.left/0.25.1680.951@0.25.1680.951" timestamp="1606531835535" />
     <state width="1630" height="222" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1606364864319" />
-    <state width="1630" height="218" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1606705393678" />
+    <state width="1630" height="218" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1606811205082" />
+    <state width="1630" height="218" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1606805979490" />
     <state width="1630" height="218" key="GridCell.Tab.0.left/1680.25.1920.973/0.25.1680.1025@0.25.1680.1025" timestamp="1606717707082" />
-    <state width="1630" height="218" key="GridCell.Tab.0.right" timestamp="1606717707084">
-      <screen x="0" y="25" width="1680" height="1025" />
+    <state width="1630" height="218" key="GridCell.Tab.0.right" timestamp="1606811205083">
+      <screen x="0" y="25" width="1680" height="949" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
     <state width="1630" height="222" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1606441058636" />
     <state width="1630" height="219" key="GridCell.Tab.0.right/0.25.1680.951@0.25.1680.951" timestamp="1606531835536" />
     <state width="1630" height="222" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1606364864320" />
-    <state width="1630" height="218" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1606705393679" />
+    <state width="1630" height="218" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1606811205083" />
+    <state width="1630" height="218" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1606805979491" />
     <state width="1630" height="218" key="GridCell.Tab.0.right/1680.25.1920.973/0.25.1680.1025@0.25.1680.1025" timestamp="1606717707084" />
     <state width="1630" height="278" key="GridCell.Tab.1.bottom" timestamp="1606615269277">
       <screen x="0" y="25" width="1680" height="951" />
@@ -374,6 +380,7 @@
     <SUITE FILE_PATH="coverage/codebase$Solution57.coverage" NAME="Solution57 Coverage Results" MODIFIED="1606018214518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$Solution41.coverage" NAME="Solution41 Coverage Results" MODIFIED="1605513226523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$Solution47.coverage" NAME="Solution47 Coverage Results" MODIFIED="1606474431364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/codebase$my_list.coverage" NAME="my_list Coverage Results" MODIFIED="1606811205076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/foundation_level" />
     <SUITE FILE_PATH="coverage/codebase$Solution59.coverage" NAME="Solution59 Coverage Results" MODIFIED="1606024434406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$my_dict.coverage" NAME="my_dict Coverage Results" MODIFIED="1606622399864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/foundation_level" />
     <SUITE FILE_PATH="coverage/codebase$Solution18.coverage" NAME="Solution18 Coverage Results" MODIFIED="1605495556210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
@@ -416,7 +423,7 @@
     <SUITE FILE_PATH="coverage/codebase$my_file.coverage" NAME="my_file Coverage Results" MODIFIED="1606639040318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/foundation_level" />
     <SUITE FILE_PATH="coverage/codebase$Solution1162.coverage" NAME="Solution1162 Coverage Results" MODIFIED="1604408033731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$Solution79.coverage" NAME="Solution79 Coverage Results" MODIFIED="1606531832668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/codebase$my_function.coverage" NAME="my_function Coverage Results" MODIFIED="1606632940604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/foundation_level" />
+    <SUITE FILE_PATH="coverage/codebase$my_function.coverage" NAME="my_function Coverage Results" MODIFIED="1606810877200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/foundation_level" />
     <SUITE FILE_PATH="coverage/codebase$Solution15.coverage" NAME="Solution15 Coverage Results" MODIFIED="1605357644502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$Solution27.coverage" NAME="Solution27 Coverage Results" MODIFIED="1605507131600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$Solution56.coverage" NAME="Solution56 Coverage Results" MODIFIED="1605943243601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
@@ -429,6 +436,7 @@
     <SUITE FILE_PATH="coverage/codebase$Solution26.coverage" NAME="Solution26 Coverage Results" MODIFIED="1605506389712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$my_lambda.coverage" NAME="my_lambda Coverage Results" MODIFIED="1606634864499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/foundation_level" />
     <SUITE FILE_PATH="coverage/codebase$my_condition_judge.coverage" NAME="my_condition_judge Coverage Results" MODIFIED="1606470003666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/codebase$my_string.coverage" NAME="my_string Coverage Results" MODIFIED="1606808182804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/muke_advance" />
     <SUITE FILE_PATH="coverage/codebase$Solution300.coverage" NAME="Solution300 Coverage Results" MODIFIED="1604277785109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$my_screen.coverage" NAME="my_screen Coverage Results" MODIFIED="1606653429686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/muke_advance" />
     <SUITE FILE_PATH="coverage/codebase$my_iterator.coverage" NAME="my_iterator Coverage Results" MODIFIED="1606717707075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/muke_advance" />
