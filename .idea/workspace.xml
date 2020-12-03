@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3007319-5d29-4300-889d-22728ecac987" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/muke_advance/demo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/muke_advance/my_document_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/muke_advance/my_fileIO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/Solution90.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/Solution93.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/Solution89.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Solution89.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,51 @@
       <recent name="$PROJECT_DIR$/python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.my_document_read">
+  <component name="RunManager" selected="Python.Solution90">
+    <configuration name="Solution89" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codebase" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/Solution89.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Solution90" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codebase" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/Solution90.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="my_document_read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codebase" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,50 +156,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="my_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codebase" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/foundation_level" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/foundation_level/my_function.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="my_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codebase" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/foundation_level" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/foundation_level/my_list.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="my_re" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codebase" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Solution90" />
+        <item itemvalue="Python.Solution89" />
         <item itemvalue="Python.my_document_read" />
         <item itemvalue="Python.my_fileIO" />
         <item itemvalue="Python.my_re" />
-        <item itemvalue="Python.my_list" />
-        <item itemvalue="Python.my_function" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +219,7 @@
       <workItem from="1606183342034" duration="7747000" />
       <workItem from="1606292492283" duration="7033000" />
       <workItem from="1606467218537" duration="20918000" />
-      <workItem from="1606615887566" duration="47839000" />
+      <workItem from="1606615887566" duration="54062000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode 1,11,15,31____16remained">
       <created>1605357762844</created>
@@ -245,52 +245,52 @@
     </state>
     <state x="606" y="157" key="#com.intellij.ide.util.MemberChooser/0.23.1680.958@0.23.1680.958" timestamp="1605925300412" />
     <state x="606" y="157" key="#com.intellij.ide.util.MemberChooser/1680.23.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1606359675255" />
-    <state x="512" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606891567148">
+    <state x="512" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606894628587">
       <screen x="0" y="25" width="1680" height="949" />
     </state>
-    <state x="512" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1606891567148" />
+    <state x="512" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1606894628587" />
     <state x="352" y="23" key="CommitChangelistDialog2" timestamp="1605357762718">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state x="352" y="23" key="CommitChangelistDialog2/0.23.1680.958@0.23.1680.958" timestamp="1605357762718" />
-    <state width="1630" height="420" key="GridCell.Tab.0.bottom" timestamp="1606894528785">
+    <state width="1630" height="424" key="GridCell.Tab.0.bottom" timestamp="1606997115108">
       <screen x="0" y="25" width="1680" height="949" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
     <state width="1630" height="222" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1606441058637" />
     <state width="1630" height="219" key="GridCell.Tab.0.bottom/0.25.1680.951@0.25.1680.951" timestamp="1606531835536" />
     <state width="1630" height="222" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1606364864320" />
-    <state width="1630" height="420" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1606894528785" />
+    <state width="1630" height="424" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1606997115108" />
     <state width="1630" height="218" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1606805979491" />
     <state width="1630" height="218" key="GridCell.Tab.0.bottom/1680.25.1920.973/0.25.1680.1025@0.25.1680.1025" timestamp="1606717707084" />
-    <state width="1630" height="420" key="GridCell.Tab.0.center" timestamp="1606894528784">
+    <state width="1630" height="424" key="GridCell.Tab.0.center" timestamp="1606997115107">
       <screen x="0" y="25" width="1680" height="949" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
     <state width="1630" height="222" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1606441058636" />
     <state width="1630" height="219" key="GridCell.Tab.0.center/0.25.1680.951@0.25.1680.951" timestamp="1606531835536" />
     <state width="1630" height="222" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1606364864319" />
-    <state width="1630" height="420" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1606894528784" />
+    <state width="1630" height="424" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1606997115107" />
     <state width="1630" height="218" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1606805979490" />
     <state width="1630" height="218" key="GridCell.Tab.0.center/1680.25.1920.973/0.25.1680.1025@0.25.1680.1025" timestamp="1606717707083" />
-    <state width="1630" height="420" key="GridCell.Tab.0.left" timestamp="1606894528784">
+    <state width="1630" height="424" key="GridCell.Tab.0.left" timestamp="1606997115107">
       <screen x="0" y="25" width="1680" height="949" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
     <state width="1630" height="222" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1606441058636" />
     <state width="1630" height="219" key="GridCell.Tab.0.left/0.25.1680.951@0.25.1680.951" timestamp="1606531835535" />
     <state width="1630" height="222" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1606364864319" />
-    <state width="1630" height="420" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1606894528784" />
+    <state width="1630" height="424" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1606997115107" />
     <state width="1630" height="218" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1606805979490" />
     <state width="1630" height="218" key="GridCell.Tab.0.left/1680.25.1920.973/0.25.1680.1025@0.25.1680.1025" timestamp="1606717707082" />
-    <state width="1630" height="420" key="GridCell.Tab.0.right" timestamp="1606894528785">
+    <state width="1630" height="424" key="GridCell.Tab.0.right" timestamp="1606997115108">
       <screen x="0" y="25" width="1680" height="949" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
     <state width="1630" height="222" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1606441058636" />
     <state width="1630" height="219" key="GridCell.Tab.0.right/0.25.1680.951@0.25.1680.951" timestamp="1606531835536" />
     <state width="1630" height="222" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1606364864320" />
-    <state width="1630" height="420" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1606894528785" />
+    <state width="1630" height="424" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1606997115108" />
     <state width="1630" height="218" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1606805979491" />
     <state width="1630" height="218" key="GridCell.Tab.0.right/1680.25.1920.973/0.25.1680.1025@0.25.1680.1025" timestamp="1606717707084" />
     <state width="1630" height="278" key="GridCell.Tab.1.bottom" timestamp="1606615269277">
@@ -384,6 +384,7 @@
     <SUITE FILE_PATH="coverage/codebase$Solution200.coverage" NAME="Solution200 Coverage Results" MODIFIED="1604060457424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$Solution11.coverage" NAME="Solution11 Coverage Results" MODIFIED="1605354147118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$Solution45.coverage" NAME="Solution45 Coverage Results" MODIFIED="1604905690864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/codebase$Solution90.coverage" NAME="Solution90 Coverage Results" MODIFIED="1606997110688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$Solution48.coverage" NAME="Solution48 Coverage Results" MODIFIED="1605938232990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$homework3.coverage" NAME="homework3 Coverage Results" MODIFIED="1603874106277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codebase$my_fileIO.coverage" NAME="my_fileIO Coverage Results" MODIFIED="1606890866640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/muke_advance" />
@@ -425,6 +426,7 @@
     <SUITE FILE_PATH="coverage/codebase$Solution786.coverage" NAME="Solution786 Coverage Results" MODIFIED="1604473983082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$Solution52.coverage" NAME="Solution52 Coverage Results" MODIFIED="1606480355109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$Solution31.coverage" NAME="Solution31 Coverage Results" MODIFIED="1605009409223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/codebase$Solution89.coverage" NAME="Solution89 Coverage Results" MODIFIED="1606995806780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$Solution875.coverage" NAME="Solution875 Coverage Results" MODIFIED="1604365067821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$Solution40.coverage" NAME="Solution40 Coverage Results" MODIFIED="1605509976009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$Solution327.coverage" NAME="Solution327 Coverage Results" MODIFIED="1604819798903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
