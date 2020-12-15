@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3007319-5d29-4300-889d-22728ecac987" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/schema_create/prototype_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_operation/my_sqlalchemy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
       <recent name="$PROJECT_DIR$/python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.prototype_pattern">
+  <component name="RunManager" selected="Python.my_sqlalchemy">
     <configuration name="Solution49" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codebase" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,28 +88,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="facade_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codebase" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/schema_create" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/schema_create/facade_pattern.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="flyweight_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codebase" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,6 +102,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/schema_create/flyweight_pattern.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_sqlalchemy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codebase" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db_operation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_operation/my_sqlalchemy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.my_sqlalchemy" />
         <item itemvalue="Python.prototype_pattern" />
         <item itemvalue="Python.Solution49" />
         <item itemvalue="Python.proxy_pattern" />
         <item itemvalue="Python.flyweight_pattern" />
-        <item itemvalue="Python.facade_pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +219,8 @@
       <workItem from="1606467218537" duration="20918000" />
       <workItem from="1606615887566" duration="56585000" />
       <workItem from="1607341688708" duration="19096000" />
-      <workItem from="1608009462412" duration="310000" />
+      <workItem from="1608009462412" duration="766000" />
+      <workItem from="1608036131689" duration="2716000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode 1,11,15,31____16remained">
       <created>1605357762844</created>
@@ -254,49 +255,49 @@
       <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state x="352" y="23" key="CommitChangelistDialog2/0.23.1680.958@0.23.1680.958" timestamp="1605357762718" />
-    <state width="1630" height="201" key="GridCell.Tab.0.bottom" timestamp="1607994677120">
+    <state width="1630" height="293" key="GridCell.Tab.0.bottom" timestamp="1608039710236">
       <screen x="0" y="25" width="1680" height="953" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
     <state width="1630" height="222" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1606441058637" />
     <state width="1630" height="201" key="GridCell.Tab.0.bottom/0.25.1680.951@0.25.1680.951" timestamp="1607951406507" />
-    <state width="1630" height="201" key="GridCell.Tab.0.bottom/0.25.1680.953@0.25.1680.953" timestamp="1607994677120" />
+    <state width="1630" height="293" key="GridCell.Tab.0.bottom/0.25.1680.953@0.25.1680.953" timestamp="1608039710236" />
     <state width="1630" height="222" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1606364864320" />
     <state width="1630" height="424" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1607045949331" />
     <state width="1630" height="245" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1607485443498" />
     <state width="1630" height="246" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1607483924527" />
     <state width="1630" height="218" key="GridCell.Tab.0.bottom/1680.25.1920.973/0.25.1680.1025@0.25.1680.1025" timestamp="1606717707084" />
-    <state width="1630" height="201" key="GridCell.Tab.0.center" timestamp="1607994677119">
+    <state width="1630" height="293" key="GridCell.Tab.0.center" timestamp="1608039710235">
       <screen x="0" y="25" width="1680" height="953" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
     <state width="1630" height="222" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1606441058636" />
     <state width="1630" height="201" key="GridCell.Tab.0.center/0.25.1680.951@0.25.1680.951" timestamp="1607951406507" />
-    <state width="1630" height="201" key="GridCell.Tab.0.center/0.25.1680.953@0.25.1680.953" timestamp="1607994677119" />
+    <state width="1630" height="293" key="GridCell.Tab.0.center/0.25.1680.953@0.25.1680.953" timestamp="1608039710235" />
     <state width="1630" height="222" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1606364864319" />
     <state width="1630" height="424" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1607045949330" />
     <state width="1630" height="245" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1607485443498" />
     <state width="1630" height="246" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1607483924526" />
     <state width="1630" height="218" key="GridCell.Tab.0.center/1680.25.1920.973/0.25.1680.1025@0.25.1680.1025" timestamp="1606717707083" />
-    <state width="1630" height="201" key="GridCell.Tab.0.left" timestamp="1607994677119">
+    <state width="1630" height="293" key="GridCell.Tab.0.left" timestamp="1608039710235">
       <screen x="0" y="25" width="1680" height="953" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
     <state width="1630" height="222" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1606441058636" />
     <state width="1630" height="201" key="GridCell.Tab.0.left/0.25.1680.951@0.25.1680.951" timestamp="1607951406506" />
-    <state width="1630" height="201" key="GridCell.Tab.0.left/0.25.1680.953@0.25.1680.953" timestamp="1607994677119" />
+    <state width="1630" height="293" key="GridCell.Tab.0.left/0.25.1680.953@0.25.1680.953" timestamp="1608039710235" />
     <state width="1630" height="222" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1606364864319" />
     <state width="1630" height="424" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1607045949330" />
     <state width="1630" height="245" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1607485443497" />
     <state width="1630" height="246" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1607483924526" />
     <state width="1630" height="218" key="GridCell.Tab.0.left/1680.25.1920.973/0.25.1680.1025@0.25.1680.1025" timestamp="1606717707082" />
-    <state width="1630" height="201" key="GridCell.Tab.0.right" timestamp="1607994677120">
+    <state width="1630" height="293" key="GridCell.Tab.0.right" timestamp="1608039710236">
       <screen x="0" y="25" width="1680" height="953" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
     <state width="1630" height="222" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1606441058636" />
     <state width="1630" height="201" key="GridCell.Tab.0.right/0.25.1680.951@0.25.1680.951" timestamp="1607951406507" />
-    <state width="1630" height="201" key="GridCell.Tab.0.right/0.25.1680.953@0.25.1680.953" timestamp="1607994677120" />
+    <state width="1630" height="293" key="GridCell.Tab.0.right/0.25.1680.953@0.25.1680.953" timestamp="1608039710236" />
     <state width="1630" height="222" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1606364864320" />
     <state width="1630" height="424" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1607045949330" />
     <state width="1630" height="245" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1607485443498" />
@@ -376,6 +377,7 @@
     <SUITE FILE_PATH="coverage/codebase$Solution63.coverage" NAME="Solution63 Coverage Results" MODIFIED="1606028892098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$abstract_factory.coverage" NAME="abstract_factory Coverage Results" MODIFIED="1606359151235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/schema_create" />
     <SUITE FILE_PATH="coverage/codebase$Solution54.coverage" NAME="Solution54 Coverage Results" MODIFIED="1605942373169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/codebase$my_sqlalchemy.coverage" NAME="my_sqlalchemy Coverage Results" MODIFIED="1608039710228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_operation" />
     <SUITE FILE_PATH="coverage/codebase$Solution1.coverage" NAME="Solution1 Coverage Results" MODIFIED="1606547691541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$Solution78.coverage" NAME="Solution78 Coverage Results" MODIFIED="1604052657996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$my_set.coverage" NAME="my_set Coverage Results" MODIFIED="1606619552919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/foundation_level" />
