@@ -49,6 +49,7 @@ print(ma.group())
 print(re.match(r'{.}', '{0}').group())
 print(re.match(r'{[abc]}', '{a}').group())
 print(re.match(r'{[a-z]}', '{d}').group())
+
 print(re.match(r'{[a-zA-Z0-9]}', '{d}').group())
 print(re.match(r'{[\w]}', '{d}').group())  # \w/\w           匹配单词字符[a-zA-Z0-9]/非单词字符
 print(re.match(r'{[\W]}', '{ }').group())
