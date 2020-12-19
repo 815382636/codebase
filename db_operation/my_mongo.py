@@ -56,19 +56,24 @@ class TestMongo(object):
         return self.collection.find_one({'_id': obj})
 
     def update(self):
-        # rest = self.collection.update_one({'title': '标题'}, {'$inc': {'x': '3'}})
-        t = self.collection.find_one({'title':'标题'})
-        t['content'] = '修改了'
+        self.collection.update_one({'title': '标题'}, {'$set': {'content': '修改了'}})
+        self.collection.update_many({'title': '标题'}, {'$set': {'content': '修改了1'}})
+
+    def delete(self):
+        self.collection.delete_one({'title': '标题'})
+        self.collection.delete_one({'title': '标题'})
 
 
 def main():
     obj = TestMongo()
-    # rest = obj.add_one()
+    rest = obj.add_one()
     # print(rest)
     print(obj.get_one())
     print([i for i in obj.get_more()])
     print(obj.get_one_from_oid('5fdd722fde7ef284eae6dbaf'))
     obj.update()
+    print([i for i in obj.get_more()])
+    obj.delete()
     print([i for i in obj.get_more()])
 
 
