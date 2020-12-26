@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3007319-5d29-4300-889d-22728ecac987" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/db_operation/my_redis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/admin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/my_flask/description.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/my_flask/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -48,7 +51,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowDuplicates.ShowToolbar" value="false" />
     <property name="ToolWindowSciView.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -57,7 +62,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="python.debugger.dataview.autoresize" value="false" />
     <property name="python.debugger.dataview.coloredbydefault" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -65,7 +70,29 @@
       <recent name="$PROJECT_DIR$/python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.my_redis">
+  <component name="RunManager" selected="Python.description">
+    <configuration name="description" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codebase" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/my_flask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/my_flask/description.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="my_ODM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codebase" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,35 +181,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prototype_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codebase" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/schema_create" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/schema_create/prototype_pattern.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.description" />
         <item itemvalue="Python.my_redis" />
         <item itemvalue="Python.my_ODM" />
         <item itemvalue="Python.my_mongo" />
         <item itemvalue="Python.my_sqlalchemy" />
-        <item itemvalue="Python.prototype_pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +229,8 @@
       <workItem from="1608100316057" duration="2646000" />
       <workItem from="1608255149551" duration="2538000" />
       <workItem from="1608282412729" duration="622000" />
-      <workItem from="1608339730248" duration="16259000" />
+      <workItem from="1608339730248" duration="17029000" />
+      <workItem from="1608622551675" duration="8814000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode 1,11,15,31____16remained">
       <created>1605357762844</created>
@@ -238,6 +244,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -255,57 +264,61 @@
       <screen x="0" y="25" width="1680" height="949" />
     </state>
     <state x="512" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1606894628587" />
+    <state x="484" y="234" key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog" timestamp="1608640663193">
+      <screen x="0" y="25" width="1680" height="953" />
+    </state>
+    <state x="484" y="234" key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1608640663193" />
     <state x="352" y="23" key="CommitChangelistDialog2" timestamp="1605357762718">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state x="352" y="23" key="CommitChangelistDialog2/0.23.1680.958@0.23.1680.958" timestamp="1605357762718" />
-    <state width="1630" height="241" key="GridCell.Tab.0.bottom" timestamp="1608433646314">
+    <state width="1630" height="237" key="GridCell.Tab.0.bottom" timestamp="1608887040281">
       <screen x="0" y="25" width="1680" height="953" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
     <state width="1630" height="222" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1606441058637" />
     <state width="1630" height="201" key="GridCell.Tab.0.bottom/0.25.1680.951@0.25.1680.951" timestamp="1607951406507" />
-    <state width="1630" height="293" key="GridCell.Tab.0.bottom/0.25.1680.953@0.25.1680.953" timestamp="1608040123534" />
+    <state width="1630" height="237" key="GridCell.Tab.0.bottom/0.25.1680.953@0.25.1680.953" timestamp="1608887040281" />
     <state width="1630" height="222" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1606364864320" />
     <state width="1630" height="424" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1607045949331" />
     <state width="1630" height="245" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1607485443498" />
-    <state width="1630" height="241" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1608433646314" />
+    <state width="1630" height="239" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1608639793024" />
     <state width="1630" height="218" key="GridCell.Tab.0.bottom/1680.25.1920.973/0.25.1680.1025@0.25.1680.1025" timestamp="1606717707084" />
-    <state width="1630" height="241" key="GridCell.Tab.0.center" timestamp="1608433646313">
+    <state width="1630" height="237" key="GridCell.Tab.0.center" timestamp="1608887040281">
       <screen x="0" y="25" width="1680" height="953" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
     <state width="1630" height="222" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1606441058636" />
     <state width="1630" height="201" key="GridCell.Tab.0.center/0.25.1680.951@0.25.1680.951" timestamp="1607951406507" />
-    <state width="1630" height="293" key="GridCell.Tab.0.center/0.25.1680.953@0.25.1680.953" timestamp="1608040123534" />
+    <state width="1630" height="237" key="GridCell.Tab.0.center/0.25.1680.953@0.25.1680.953" timestamp="1608887040281" />
     <state width="1630" height="222" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1606364864319" />
     <state width="1630" height="424" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1607045949330" />
     <state width="1630" height="245" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1607485443498" />
-    <state width="1630" height="241" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1608433646313" />
+    <state width="1630" height="239" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1608639793023" />
     <state width="1630" height="218" key="GridCell.Tab.0.center/1680.25.1920.973/0.25.1680.1025@0.25.1680.1025" timestamp="1606717707083" />
-    <state width="1630" height="241" key="GridCell.Tab.0.left" timestamp="1608433646313">
+    <state width="1630" height="237" key="GridCell.Tab.0.left" timestamp="1608887040280">
       <screen x="0" y="25" width="1680" height="953" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
     <state width="1630" height="222" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1606441058636" />
     <state width="1630" height="201" key="GridCell.Tab.0.left/0.25.1680.951@0.25.1680.951" timestamp="1607951406506" />
-    <state width="1630" height="293" key="GridCell.Tab.0.left/0.25.1680.953@0.25.1680.953" timestamp="1608040123533" />
+    <state width="1630" height="237" key="GridCell.Tab.0.left/0.25.1680.953@0.25.1680.953" timestamp="1608887040280" />
     <state width="1630" height="222" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1606364864319" />
     <state width="1630" height="424" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1607045949330" />
     <state width="1630" height="245" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1607485443497" />
-    <state width="1630" height="241" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1608433646313" />
+    <state width="1630" height="239" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1608639793023" />
     <state width="1630" height="218" key="GridCell.Tab.0.left/1680.25.1920.973/0.25.1680.1025@0.25.1680.1025" timestamp="1606717707082" />
-    <state width="1630" height="241" key="GridCell.Tab.0.right" timestamp="1608433646314">
+    <state width="1630" height="237" key="GridCell.Tab.0.right" timestamp="1608887040281">
       <screen x="0" y="25" width="1680" height="953" />
     </state>
     <state width="1628" height="291" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1604277898070" />
     <state width="1630" height="222" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1606441058636" />
     <state width="1630" height="201" key="GridCell.Tab.0.right/0.25.1680.951@0.25.1680.951" timestamp="1607951406507" />
-    <state width="1630" height="293" key="GridCell.Tab.0.right/0.25.1680.953@0.25.1680.953" timestamp="1608040123534" />
+    <state width="1630" height="237" key="GridCell.Tab.0.right/0.25.1680.953@0.25.1680.953" timestamp="1608887040281" />
     <state width="1630" height="222" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.958@0.23.1680.958" timestamp="1606364864320" />
     <state width="1630" height="424" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1607045949330" />
     <state width="1630" height="245" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1607485443498" />
-    <state width="1630" height="241" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1608433646314" />
+    <state width="1630" height="239" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1608639793024" />
     <state width="1630" height="218" key="GridCell.Tab.0.right/1680.25.1920.973/0.25.1680.1025@0.25.1680.1025" timestamp="1606717707084" />
     <state width="1630" height="278" key="GridCell.Tab.1.bottom" timestamp="1606615269277">
       <screen x="0" y="25" width="1680" height="951" />
@@ -335,12 +348,17 @@
       <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state x="325" y="182" key="IDE.errors.dialog/0.23.1680.958@0.23.1680.958" timestamp="1604906527664" />
-    <state x="217" y="54" key="SettingsEditor" timestamp="1606545462854">
-      <screen x="0" y="25" width="1680" height="951" />
+    <state x="217" y="54" key="SettingsEditor" timestamp="1608641009396">
+      <screen x="0" y="25" width="1680" height="953" />
     </state>
     <state x="217" y="52" key="SettingsEditor/0.23.1680.956@0.23.1680.956" timestamp="1603863821779" />
     <state x="217" y="52" key="SettingsEditor/0.23.1680.958@0.23.1680.958" timestamp="1604906509649" />
     <state x="217" y="54" key="SettingsEditor/1680.25.1920.1055/0.25.1680.951@0.25.1680.951" timestamp="1606545462854" />
+    <state x="217" y="54" key="SettingsEditor/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1608641009396" />
+    <state width="625" height="500" key="SwitcherDM" timestamp="1608640613882">
+      <screen x="0" y="25" width="1680" height="953" />
+    </state>
+    <state width="625" height="500" key="SwitcherDM/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1608640613882" />
     <state x="340" y="174" key="Vcs.Push.Dialog.v2" timestamp="1605357771714">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
@@ -369,12 +387,12 @@
       <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state x="544" y="356" width="691" height="317" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.1680.958@0.23.1680.958" timestamp="1604881926981" />
-    <state x="421" y="25" width="838" height="1028" key="search.everywhere.popup" timestamp="1608385036277">
+    <state x="421" y="25" width="838" height="1028" key="search.everywhere.popup" timestamp="1608622695394">
       <screen x="0" y="25" width="1680" height="953" />
     </state>
     <state x="421" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1680.958@0.23.1680.958" timestamp="1606187308098" />
     <state x="421" y="25" width="838" height="1023" key="search.everywhere.popup/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1606890017014" />
-    <state x="421" y="25" width="838" height="1028" key="search.everywhere.popup/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1608385036277" />
+    <state x="421" y="25" width="838" height="1028" key="search.everywhere.popup/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1608622695394" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/codebase$mysql_connection.coverage" NAME="mysql_connection Coverage Results" MODIFIED="1607483924519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_operation" />
@@ -421,6 +439,7 @@
     <SUITE FILE_PATH="coverage/codebase$Solution56.coverage" NAME="Solution56 Coverage Results" MODIFIED="1605943243601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$my_redis.coverage" NAME="my_redis Coverage Results" MODIFIED="1608433646305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_operation" />
     <SUITE FILE_PATH="coverage/codebase$Solution329.coverage" NAME="Solution329 Coverage Results" MODIFIED="1604903417107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/codebase$description.coverage" NAME="description Coverage Results" MODIFIED="1608639793012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/my_flask" />
     <SUITE FILE_PATH="coverage/codebase$myinput.coverage" NAME="my_type_conversion Coverage Results" MODIFIED="1606551641764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/foundation_level" />
     <SUITE FILE_PATH="coverage/codebase$Solution62.coverage" NAME="Solution62 Coverage Results" MODIFIED="1606027472486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/codebase$Solution26.coverage" NAME="Solution26 Coverage Results" MODIFIED="1605506389712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
