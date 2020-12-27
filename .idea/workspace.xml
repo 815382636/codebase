@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3007319-5d29-4300-889d-22728ecac987" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/admin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/my_flask/description.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/my_flask/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/Solution110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/Solution589.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -231,6 +230,7 @@
       <workItem from="1608282412729" duration="622000" />
       <workItem from="1608339730248" duration="17029000" />
       <workItem from="1608622551675" duration="8814000" />
+      <workItem from="1608952089809" duration="4454000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode 1,11,15,31____16remained">
       <created>1605357762844</created>
