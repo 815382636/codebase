@@ -7,10 +7,3 @@
 # expression for item in iterable if condition
 
 # [(xx, yy) for xx in x for yy in y if xx != yy]
-
-l = [1, 2, 3]
-if l[1:1]:
-    print(True)
-else:
-    print(False)
-print(l[1:1])
