@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3007319-5d29-4300-889d-22728ecac987" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/Solution111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/Solution112.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/Solution113.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/Solution114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/Solution173.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/Solution226.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/Solution230.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/Solution257.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -243,7 +243,7 @@
       <workItem from="1608952089809" duration="5247000" />
       <workItem from="1609116924666" duration="129000" />
       <workItem from="1609117105779" duration="7177000" />
-      <workItem from="1609137750197" duration="4149000" />
+      <workItem from="1609137750197" duration="7518000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode 1,11,15,31____16remained">
       <created>1605357762844</created>
