@@ -8,8 +8,9 @@
 
 # [(xx, yy) for xx in x for yy in y if xx != yy]
 
-s = {1, 2, 3}
-s1 = s.copy()
-s1.remove(1)
-print(s1)
-print(s)
+l = [1, 2, 3]
+if l[1:1]:
+    print(True)
+else:
+    print(False)
+print(l[1:1])
