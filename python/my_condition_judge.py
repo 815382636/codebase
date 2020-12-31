@@ -8,6 +8,4 @@
 
 # [(xx, yy) for xx in x for yy in y if xx != yy]
 
-x = 123
-# print(''.join(reversed(str(x))))
-print(1<<31 -1)
+print('1' < '2')
