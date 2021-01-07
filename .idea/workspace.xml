@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3007319-5d29-4300-889d-22728ecac987" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/Solution35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/Solution28.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,8 +77,8 @@
       <recent name="$PROJECT_DIR$/python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Solution35">
-    <configuration name="Solution3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Solution28">
+    <configuration name="Solution28" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codebase" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +91,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/Solution3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/Solution28.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Solution28" />
         <item itemvalue="Python.Solution35" />
         <item itemvalue="Python.Solution8" />
         <item itemvalue="Python.my_condition_judge" />
         <item itemvalue="Python.Solution7" />
-        <item itemvalue="Python.Solution3" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +245,7 @@
       <workItem from="1609207493412" duration="3820000" />
       <workItem from="1609308731096" duration="1034000" />
       <workItem from="1609385998494" duration="4277000" />
-      <workItem from="1609921981384" duration="801000" />
+      <workItem from="1609921981384" duration="1565000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode 1,11,15,31____16remained">
       <created>1605357762844</created>
