@@ -8,4 +8,5 @@
 
 # [(xx, yy) for xx in x for yy in y if xx != yy]
 
-print('1' < '2')
+print(bin(915))
+print(type(bin(915)))
