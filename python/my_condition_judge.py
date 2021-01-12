@@ -7,6 +7,5 @@
 # expression for item in iterable if condition
 
 # [(xx, yy) for xx in x for yy in y if xx != yy]
-
-print(bin(915))
-print(type(bin(915)))
+l = ['1', '2', '3']
+print(','.join(l))
