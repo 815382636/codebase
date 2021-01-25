@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3007319-5d29-4300-889d-22728ecac987" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/Solution897.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/Solution342.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -254,7 +254,8 @@
       <workItem from="1610436662321" duration="5514000" />
       <workItem from="1610936562476" duration="3084000" />
       <workItem from="1611230728994" duration="3583000" />
-      <workItem from="1611379417990" duration="1901000" />
+      <workItem from="1611379417990" duration="2454000" />
+      <workItem from="1611563596659" duration="405000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode 1,11,15,31____16remained">
       <created>1605357762844</created>
