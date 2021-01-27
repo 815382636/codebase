@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3007319-5d29-4300-889d-22728ecac987" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/Solution344.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/Solution345.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/Solution342.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Solution342.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="python.debugger.dataview.autoresize" value="false" />
     <property name="python.debugger.dataview.coloredbydefault" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -256,7 +255,10 @@
       <workItem from="1610936562476" duration="3084000" />
       <workItem from="1611230728994" duration="3583000" />
       <workItem from="1611379417990" duration="2454000" />
-      <workItem from="1611563596659" duration="1794000" />
+      <workItem from="1611563596659" duration="2061000" />
+      <workItem from="1611711300462" duration="55000" />
+      <workItem from="1611711366743" duration="20000" />
+      <workItem from="1611711396479" duration="309000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode 1,11,15,31____16remained">
       <created>1605357762844</created>
