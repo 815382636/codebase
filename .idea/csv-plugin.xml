@@ -17,6 +17,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/python/my_spider/v1.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/python/read_ttl.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/python/schema_create/homework1.py">
           <value>
             <Attribute>
